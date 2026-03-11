@@ -1,5 +1,6 @@
-id: 48be86e2-61b0-4080-9e3b-39ebf4f7fade
 name: prompt-forge
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, vite]
 repo: "https://github.com/mxn2020/prompt-forge"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [prompts, ai, generation, templates, llm, tools, engineering]
+notes: null
+id: 48be86e2-61b0-4080-9e3b-39ebf4f7fade
