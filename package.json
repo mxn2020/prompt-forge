@@ -32,7 +32,7 @@
   },
   "description": "Prompt engineering workspace with version control",
   "author": "Mehdi Nabhani",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "prompt",
     "forge",
